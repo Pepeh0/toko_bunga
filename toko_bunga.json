@@ -1,0 +1,70 @@
+{
+  "theme": {
+    "product": [
+      {
+        "name": "Bunga Mawar Merah",
+        "price": 20
+      },
+      {
+        "name": "Bunga Melati Putih",
+        "price": 15
+      },
+      {
+        "name": "Bunga Anggrek Ungu",
+        "price": 25
+      },
+      {
+        "name": "Bunga Dahlia Pink",
+        "price": 18
+      },
+      {
+        "name": "Bunga Tulip Kuning",
+        "price": 22
+      }
+    ],
+    "pegawai": [
+      {
+        "name": "Anna",
+        "role": "Florist"
+      },
+      {
+        "name": "David",
+        "role": "Flower Arranger"
+      },
+      {
+        "name": "Eva",
+        "role": "Customer Service"
+      },
+      {
+        "name": "Jack",
+        "role": "Delivery Driver"
+      },
+      {
+        "name": "Sophie",
+        "role": "Store Manager"
+      }
+    ],
+    "customer": [
+      {
+        "name": "John",
+        "loyalty": "Gold"
+      },
+      {
+        "name": "Maria",
+        "loyalty": "Silver"
+      },
+      {
+        "name": "Michael",
+        "loyalty": "Bronze"
+      },
+      {
+        "name": "Emma",
+        "loyalty": "Gold"
+      },
+      {
+        "name": "William",
+        "loyalty": "Bronze"
+      }
+    ]
+  }
+}
